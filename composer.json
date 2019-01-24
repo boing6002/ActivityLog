@@ -1,5 +1,5 @@
 {
-    "name": "laravel-enso/activitylog",
+    "name": "boing6002/activitylog",
     "description": "User activity log dependency for Laravel Enso",
     "keywords": [
         "laravel-enso",
@@ -20,10 +20,10 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "laravel-enso/core": "3.6.*",
-        "laravel-enso/select": "2.8.*",
-        "laravel-enso/trackwho": "1.7.*",
-        "laravel-enso/vuecomponents": "2.7.*"
+        "boing6002/core": "dev-master",
+        "boing6002/select": "dev-master",
+        "boing6002/trackwho": "dev-master",
+        "boing6002/vuecomponents": "dev-master"
     },
     "autoload": {
         "psr-4": {
